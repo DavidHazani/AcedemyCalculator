@@ -1,0 +1,1004 @@
+[
+    {
+        "studyType": "הנדסת כימיה",
+        "avgBagrut": "101",
+        "avgPshy": "589",
+        "id": "205"
+    },
+    {
+        "studyType": "הנדסת תעשייה וניהול",
+        "avgBagrut": "98",
+        "avgPshy": "580",
+        "id": "2"
+    },
+    {
+        "studyType": "הנדסה רפואית",
+        "avgBagrut": "98",
+        "avgPshy": "599",
+        "id": "16"
+    },
+    {
+        "studyType": "תואר בפיזיותרפיה",
+        "avgBagrut": "97",
+        "avgPshy": "588",
+        "id": "74"
+    },
+    {
+        "studyType": "תואר וטרינריה",
+        "avgBagrut": "94",
+        "avgPshy": "593",
+        "id": "86"
+    },
+    {
+        "studyType": "תואר ריפוי בעיסוק",
+        "avgBagrut": "108",
+        "avgPshy": "559",
+        "id": "76"
+    },
+    {
+        "studyType": "חינוך ומדעי המחשב",
+        "avgBagrut": "122",
+        "avgPshy": "614",
+        "id": "23"
+    },
+    {
+        "studyType": "טכנולוגיות למידה",
+        "avgBagrut": "145",
+        "avgPshy": "546",
+        "id": "151"
+    },
+    {
+        "studyType": "הוראת ביולוגיה",
+        "avgBagrut": "95",
+        "avgPshy": "508",
+        "id": "66"
+    },
+    {
+        "studyType": "תואר משפטים",
+        "avgBagrut": "95",
+        "avgPshy": "589",
+        "id": "35"
+    },
+    {
+        "studyType": "תקשורת פוליטית",
+        "avgBagrut": "95",
+        "avgPshy": "481",
+        "id": "240"
+    },
+    {
+        "studyType": "תואר בספרות",
+        "avgBagrut": "89",
+        "avgPshy": "496",
+        "id": "123"
+    },
+    {
+        "studyType": "מדעי הרוח",
+        "avgBagrut": "89",
+        "avgPshy": "524",
+        "id": "53"
+    },
+    {
+        "studyType": "תואר חינוך גופני",
+        "avgBagrut": "85",
+        "avgPshy": "466",
+        "id": "62"
+    },
+    {
+        "studyType": "הוראת מדעים",
+        "avgBagrut": "98",
+        "avgPshy": "510",
+        "id": "222"
+    },
+    {
+        "studyType": "הנדסת מכונות",
+        "avgBagrut": "96",
+        "avgPshy": "598",
+        "id": "9"
+    },
+    {
+        "studyType": "הנדסת תחבורה",
+        "avgBagrut": "93",
+        "avgPshy": "549",
+        "id": "21"
+    },
+    {
+        "studyType": "הנדסה גרעינית",
+        "avgBagrut": "93",
+        "avgPshy": "597",
+        "id": "18"
+    },
+    {
+        "studyType": "תואר במידענות",
+        "avgBagrut": "96",
+        "avgPshy": "510",
+        "id": "141"
+    },
+    {
+        "studyType": "תואר בקיימות",
+        "avgBagrut": "94",
+        "avgPshy": "542",
+        "id": "146"
+    },
+    {
+        "studyType": "תואר בלוגיסטיקה",
+        "avgBagrut": "81",
+        "avgPshy": "474",
+        "id": "30"
+    },
+    {
+        "studyType": "הנדסה חקלאית",
+        "avgBagrut": "95",
+        "avgPshy": "570",
+        "id": "19"
+    },
+    {
+        "studyType": "הנדסת מערכות",
+        "avgBagrut": "97",
+        "avgPshy": "615",
+        "id": "216"
+    },
+    {
+        "studyType": "תואר בביולוגיה",
+        "avgBagrut": "97",
+        "avgPshy": "575",
+        "id": "106"
+    },
+    {
+        "studyType": "לימודי בוטניקה",
+        "avgBagrut": "103",
+        "avgPshy": "626",
+        "id": "114"
+    },
+    {
+        "studyType": "לימודי תלמוד",
+        "avgBagrut": "46",
+        "avgPshy": "200",
+        "id": "229"
+    },
+    {
+        "studyType": "הודו, איראן, ארמניה",
+        "avgBagrut": "56",
+        "avgPshy": "389",
+        "id": "135"
+    },
+    {
+        "studyType": "לימודים קלאסיים",
+        "avgBagrut": "88",
+        "avgPshy": "531",
+        "id": "136"
+    },
+    {
+        "studyType": "תיאטרון",
+        "avgBagrut": "87",
+        "avgPshy": "463",
+        "id": "100"
+    },
+    {
+        "studyType": "אמנות",
+        "avgBagrut": "89",
+        "avgPshy": "481",
+        "id": "228"
+    },
+    {
+        "studyType": "לימודי תרבות",
+        "avgBagrut": "81",
+        "avgPshy": "502",
+        "id": "226"
+    },
+    {
+        "studyType": "תואר בגננות",
+        "avgBagrut": "85",
+        "avgPshy": "386",
+        "id": "58"
+    },
+    {
+        "studyType": "תואר חינוך לבתי הספר היסודיים",
+        "avgBagrut": "120",
+        "avgPshy": "457",
+        "id": "61"
+    },
+    {
+        "studyType": "תואר בצרפתית",
+        "avgBagrut": "91",
+        "avgPshy": "515",
+        "id": "120"
+    },
+    {
+        "studyType": "תואר בגרמנית",
+        "avgBagrut": "97",
+        "avgPshy": "494",
+        "id": "137"
+    },
+    {
+        "studyType": "מדעי המעבדה הרפואית",
+        "avgBagrut": "100",
+        "avgPshy": "529",
+        "id": "78"
+    },
+    {
+        "studyType": "קדם רפואה",
+        "avgBagrut": "100",
+        "avgPshy": "639",
+        "id": "206"
+    },
+    {
+        "studyType": "תואר קלינאות תקשורת",
+        "avgBagrut": "98",
+        "avgPshy": "566",
+        "id": "75"
+    },
+    {
+        "studyType": "תואר בעיצוב אופנה",
+        "avgBagrut": "86",
+        "avgPshy": "497",
+        "id": "97"
+    },
+    {
+        "studyType": "אנימציה",
+        "avgBagrut": "96",
+        "avgPshy": "504",
+        "id": "150"
+    },
+    {
+        "studyType": "תואר בצורפות",
+        "avgBagrut": "75",
+        "avgPshy": "377",
+        "id": "101"
+    },
+    {
+        "studyType": "תואר שני בהוראה ולמידה",
+        "avgBagrut": "92",
+        "avgPshy": "539",
+        "id": "209"
+    },
+    {
+        "studyType": "תואר שני בלקויות למידה",
+        "avgBagrut": "89",
+        "avgPshy": "305",
+        "id": "210"
+    },
+    {
+        "studyType": "תואר במדעי ההתנהגות",
+        "avgBagrut": "89",
+        "avgPshy": "490",
+        "id": "39"
+    },
+    {
+        "studyType": "תואר במשאבי אנוש",
+        "avgBagrut": "88",
+        "avgPshy": "449",
+        "id": "42"
+    },
+    {
+        "studyType": "תואר אנתרופולוגיה",
+        "avgBagrut": "93",
+        "avgPshy": "504",
+        "id": "45"
+    },
+    {
+        "studyType": "לימודי אפריקה",
+        "avgBagrut": "88",
+        "avgPshy": "381",
+        "id": "231"
+    },
+    {
+        "studyType": "לימודי אגיפטולוגיה",
+        "avgBagrut": "97",
+        "avgPshy": "375",
+        "id": "138"
+    },
+    {
+        "studyType": "תואר רוקחות",
+        "avgBagrut": "98",
+        "avgPshy": "575",
+        "id": "81"
+    },
+    {
+        "studyType": "רפואת שיניים",
+        "avgBagrut": "101",
+        "avgPshy": "635",
+        "id": "85"
+    },
+    {
+        "studyType": "הנדסת תוכנה",
+        "avgBagrut": "103",
+        "avgPshy": "613",
+        "id": "5"
+    },
+    {
+        "studyType": "הנדסת מחשבים",
+        "avgBagrut": "98",
+        "avgPshy": "618",
+        "id": "12"
+    },
+    {
+        "studyType": "הנדסת ביואינפורמטיקה",
+        "avgBagrut": "101",
+        "avgPshy": "609",
+        "id": "15"
+    },
+    {
+        "studyType": "הנדסת חשמל ואלקטרוניקה",
+        "avgBagrut": "100",
+        "avgPshy": "621",
+        "id": "3"
+    },
+    {
+        "studyType": "ניהול וישוב סכסוכים",
+        "avgBagrut": "89",
+        "avgPshy": "450",
+        "id": "233"
+    },
+    {
+        "studyType": "תואר בשירותי אנוש",
+        "avgBagrut": "94",
+        "avgPshy": "493",
+        "id": "48"
+    },
+    {
+        "studyType": "תואר בממשל ופוליטיקה",
+        "avgBagrut": "92",
+        "avgPshy": "563",
+        "id": "46"
+    },
+    {
+        "studyType": "מדעי ההתנהגות, תקשורת ומשאבי אנוש",
+        "avgBagrut": "89",
+        "avgPshy": "476",
+        "id": "54"
+    },
+    {
+        "studyType": "תואר בקרימינולוגיה",
+        "avgBagrut": "83",
+        "avgPshy": "474",
+        "id": "41"
+    },
+    {
+        "studyType": "חינוך בלתי פורמלי",
+        "avgBagrut": "84",
+        "avgPshy": "439",
+        "id": "224"
+    },
+    {
+        "studyType": "הוראת מתמטיקה",
+        "avgBagrut": "98",
+        "avgPshy": "554",
+        "id": "63"
+    },
+    {
+        "studyType": "תואר בסטטיסטיקה",
+        "avgBagrut": "177",
+        "avgPshy": "573",
+        "id": "55"
+    },
+    {
+        "studyType": "תואר במתמטיקה",
+        "avgBagrut": "98",
+        "avgPshy": "609",
+        "id": "104"
+    },
+    {
+        "studyType": "אסטרונומיה",
+        "avgBagrut": "94",
+        "avgPshy": "611",
+        "id": "149"
+    },
+    {
+        "studyType": "פסיכולוגיה קלינית",
+        "avgBagrut": "96",
+        "avgPshy": "597",
+        "id": "232"
+    },
+    {
+        "studyType": "פסיכולוגיה חברתית",
+        "avgBagrut": "94",
+        "avgPshy": "564",
+        "id": "238"
+    },
+    {
+        "studyType": "פסיכולוגיה חינוכית",
+        "avgBagrut": "96",
+        "avgPshy": "558",
+        "id": "220"
+    },
+    {
+        "studyType": "תואר עבודה סוציאלית",
+        "avgBagrut": "91",
+        "avgPshy": "488",
+        "id": "43"
+    },
+    {
+        "studyType": "הנדסת חומרים",
+        "avgBagrut": "103",
+        "avgPshy": "604",
+        "id": "10"
+    },
+    {
+        "studyType": "תואר באנגלית",
+        "avgBagrut": "92",
+        "avgPshy": "496",
+        "id": "119"
+    },
+    {
+        "studyType": "הנדסה אופטית",
+        "avgBagrut": "97",
+        "avgPshy": "568",
+        "id": "203"
+    },
+    {
+        "studyType": "לימודי ביואינפורמטיקה",
+        "avgBagrut": "102",
+        "avgPshy": "621",
+        "id": "80"
+    },
+    {
+        "studyType": "תרפיה באמנות",
+        "avgBagrut": "95",
+        "avgPshy": "481",
+        "id": "208"
+    },
+    {
+        "studyType": "תואר בסוציולוגיה",
+        "avgBagrut": "89",
+        "avgPshy": "487",
+        "id": "38"
+    },
+    {
+        "studyType": "תואר בפסיכולוגיה",
+        "avgBagrut": "98",
+        "avgPshy": "584",
+        "id": "36"
+    },
+    {
+        "studyType": "תואר ברפואה",
+        "avgBagrut": "106",
+        "avgPshy": "686",
+        "id": "79"
+    },
+    {
+        "studyType": "תואר בצילום",
+        "avgBagrut": "94",
+        "avgPshy": "438",
+        "id": "96"
+    },
+    {
+        "studyType": "תואר בתקשורת חזותית",
+        "avgBagrut": "91",
+        "avgPshy": "492",
+        "id": "91"
+    },
+    {
+        "studyType": "תואר בעיצוב פנים",
+        "avgBagrut": "87",
+        "avgPshy": "481",
+        "id": "89"
+    },
+    {
+        "studyType": "תואר חינוך מיוחד",
+        "avgBagrut": "88",
+        "avgPshy": "463",
+        "id": "59"
+    },
+    {
+        "studyType": "חינוך מדעי המדינה ויחסים בינלאומיים",
+        "avgBagrut": "132",
+        "avgPshy": "542",
+        "id": "72"
+    },
+    {
+        "studyType": "מדעי הצומח – בוטניקה",
+        "avgBagrut": "84",
+        "avgPshy": "575",
+        "id": "117"
+    },
+    {
+        "studyType": "לימודי גנטיקה",
+        "avgBagrut": "97",
+        "avgPshy": "571",
+        "id": "115"
+    },
+    {
+        "studyType": "מדעי החקלאות",
+        "avgBagrut": "88",
+        "avgPshy": "488",
+        "id": "111"
+    },
+    {
+        "studyType": "מדעי המדינה והיסטוריה כללית",
+        "avgBagrut": "87",
+        "avgPshy": "554",
+        "id": "140"
+    },
+    {
+        "studyType": "מדעים מדויקים",
+        "avgBagrut": "101",
+        "avgPshy": "618",
+        "id": "118"
+    },
+    {
+        "studyType": "חינוך וסוציולוגיה",
+        "avgBagrut": "89",
+        "avgPshy": "509",
+        "id": "70"
+    },
+    {
+        "studyType": "הנדסת אלקטרוניקה",
+        "avgBagrut": "96",
+        "avgPshy": "606",
+        "id": "8"
+    },
+    {
+        "studyType": "הנדסה אזרחית / הנדסת בניין",
+        "avgBagrut": "98",
+        "avgPshy": "590",
+        "id": "11"
+    },
+    {
+        "studyType": "ניהול מערכות מידע",
+        "avgBagrut": "124",
+        "avgPshy": "530",
+        "id": "212"
+    },
+    {
+        "studyType": "ניהול טכנולוגיה",
+        "avgBagrut": "87",
+        "avgPshy": "524",
+        "id": "223"
+    },
+    {
+        "studyType": "תואר רנטגן",
+        "avgBagrut": "95",
+        "avgPshy": "497",
+        "id": "82"
+    },
+    {
+        "studyType": "הנדסת איכות ואמינות",
+        "avgBagrut": "87",
+        "avgPshy": "477",
+        "id": "204"
+    },
+    {
+        "studyType": "הנדסה ביו רפואית",
+        "avgBagrut": "102",
+        "avgPshy": "613",
+        "id": "13"
+    },
+    {
+        "studyType": "הנדסת חשמל",
+        "avgBagrut": "104",
+        "avgPshy": "641",
+        "id": "6"
+    },
+    {
+        "studyType": "לימודי ארץ ישראל",
+        "avgBagrut": "89",
+        "avgPshy": "499",
+        "id": "126"
+    },
+    {
+        "studyType": "לימודי יהדות ומחשבת ישראל",
+        "avgBagrut": "69",
+        "avgPshy": "382",
+        "id": "125"
+    },
+    {
+        "studyType": "לימודי היסטוריה של עם ישראל",
+        "avgBagrut": "79",
+        "avgPshy": "472",
+        "id": "127"
+    },
+    {
+        "studyType": "תואר בעיצוב תעשייתי",
+        "avgBagrut": "93",
+        "avgPshy": "497",
+        "id": "90"
+    },
+    {
+        "studyType": "תואר בכלכלה",
+        "avgBagrut": "93",
+        "avgPshy": "560",
+        "id": "29"
+    },
+    {
+        "studyType": "תואר שוק ההון",
+        "avgBagrut": "79",
+        "avgPshy": "527",
+        "id": "27"
+    },
+    {
+        "studyType": "תואר בחשבונאות",
+        "avgBagrut": "98",
+        "avgPshy": "559",
+        "id": "25"
+    },
+    {
+        "studyType": "תואר במקרא",
+        "avgBagrut": "91",
+        "avgPshy": "471",
+        "id": "130"
+    },
+    {
+        "studyType": "מדעי הרוח ותקשורת",
+        "avgBagrut": "86",
+        "avgPshy": "457",
+        "id": "131"
+    },
+    {
+        "studyType": "מדעי המדינה וחינוך",
+        "avgBagrut": "90",
+        "avgPshy": "486",
+        "id": "68"
+    },
+    {
+        "studyType": "תואר חינוך לגיל הרך",
+        "avgBagrut": "86",
+        "avgPshy": "433",
+        "id": "60"
+    },
+    {
+        "studyType": "תואר בעיצוב",
+        "avgBagrut": "90",
+        "avgPshy": "547",
+        "id": "87"
+    },
+    {
+        "studyType": "הנדסה סביבתית",
+        "avgBagrut": "96",
+        "avgPshy": "606",
+        "id": "202"
+    },
+    {
+        "studyType": "תואר בפילוסופיה",
+        "avgBagrut": "90",
+        "avgPshy": "588",
+        "id": "129"
+    },
+    {
+        "studyType": "לימודי מזרח אסיה",
+        "avgBagrut": "85",
+        "avgPshy": "517",
+        "id": "134"
+    },
+    {
+        "studyType": "מדעי הרפואה",
+        "avgBagrut": "102",
+        "avgPshy": "658",
+        "id": "235"
+    },
+    {
+        "studyType": "תואר חברה ופוליטיקה",
+        "avgBagrut": "91",
+        "avgPshy": "553",
+        "id": "52"
+    },
+    {
+        "studyType": "מדעי החברה",
+        "avgBagrut": "91",
+        "avgPshy": "504",
+        "id": "144"
+    },
+    {
+        "studyType": "תואר בניהול מערכות בריאות",
+        "avgBagrut": "88",
+        "avgPshy": "437",
+        "id": "77"
+    },
+    {
+        "studyType": "תואר במנהל עסקים",
+        "avgBagrut": "91",
+        "avgPshy": "523",
+        "id": "24"
+    },
+    {
+        "studyType": "כלכלה וחינוך",
+        "avgBagrut": "91",
+        "avgPshy": "540",
+        "id": "69"
+    },
+    {
+        "studyType": "תואר ביטוח",
+        "avgBagrut": "80",
+        "avgPshy": "481",
+        "id": "28"
+    },
+    {
+        "studyType": "תואר יחסים בינלאומיים",
+        "avgBagrut": "92",
+        "avgPshy": "530",
+        "id": "33"
+    },
+    {
+        "studyType": "חקר המוח",
+        "avgBagrut": "99",
+        "avgPshy": "628",
+        "id": "215"
+    },
+    {
+        "studyType": "מדעי הים",
+        "avgBagrut": "92",
+        "avgPshy": "563",
+        "id": "221"
+    },
+    {
+        "studyType": "מדעי המוח",
+        "avgBagrut": "102",
+        "avgPshy": "625",
+        "id": "143"
+    },
+    {
+        "studyType": "הוראת אנגלית",
+        "avgBagrut": "86",
+        "avgPshy": "488",
+        "id": "64"
+    },
+    {
+        "studyType": "לימודי ביטחון",
+        "avgBagrut": "74",
+        "avgPshy": "437",
+        "id": "239"
+    },
+    {
+        "studyType": "מדעי התזונה",
+        "avgBagrut": "91",
+        "avgPshy": "509",
+        "id": "110"
+    },
+    {
+        "studyType": "תואר בפיזיקה",
+        "avgBagrut": "112",
+        "avgPshy": "629",
+        "id": "107"
+    },
+    {
+        "studyType": "מדעי כדור הארץ",
+        "avgBagrut": "89",
+        "avgPshy": "563",
+        "id": "113"
+    },
+    {
+        "studyType": "תואר ביו כימיה",
+        "avgBagrut": "99",
+        "avgPshy": "588",
+        "id": "112"
+    },
+    {
+        "studyType": "תואר בגיאוגרפיה",
+        "avgBagrut": "86",
+        "avgPshy": "503",
+        "id": "49"
+    },
+    {
+        "studyType": "תואר מדעי הרוח",
+        "avgBagrut": "96",
+        "avgPshy": "542",
+        "id": "122"
+    },
+    {
+        "studyType": "תואר רב תחומי",
+        "avgBagrut": "86",
+        "avgPshy": "439",
+        "id": "40"
+    },
+    {
+        "studyType": "תואר בחינוך מוסיקלי",
+        "avgBagrut": "92",
+        "avgPshy": "454",
+        "id": "214"
+    },
+    {
+        "studyType": "תואר בבנקאות ושוק ההון",
+        "avgBagrut": "84",
+        "avgPshy": "518",
+        "id": "32"
+    },
+    {
+        "studyType": "ניהול ארגוני שירות",
+        "avgBagrut": "89",
+        "avgPshy": "521",
+        "id": "145"
+    },
+    {
+        "studyType": "תואר בסיעוד",
+        "avgBagrut": "95",
+        "avgPshy": "502",
+        "id": "73"
+    },
+    {
+        "studyType": "ניהול מערכות חינוך",
+        "avgBagrut": "92",
+        "avgPshy": "481",
+        "id": "217"
+    },
+    {
+        "studyType": "התפתחות הילד",
+        "avgBagrut": "87",
+        "avgPshy": "512",
+        "id": "234"
+    },
+    {
+        "studyType": "תואר בחינוך ותעודת הוראה",
+        "avgBagrut": "89",
+        "avgPshy": "479",
+        "id": "57"
+    },
+    {
+        "studyType": "לימודים ספרדיים / לטינו אמריקאים",
+        "avgBagrut": "84",
+        "avgPshy": "550",
+        "id": "139"
+    },
+    {
+        "studyType": "לימודי פולקלור",
+        "avgBagrut": "86",
+        "avgPshy": "200",
+        "id": "132"
+    },
+    {
+        "studyType": "תואר נשים ומגדר",
+        "avgBagrut": "89",
+        "avgPshy": "357",
+        "id": "50"
+    },
+    {
+        "studyType": "מדעי איכות הסביבה",
+        "avgBagrut": "89",
+        "avgPshy": "505",
+        "id": "108"
+    },
+    {
+        "studyType": "תואר ביוטכנולוגיה",
+        "avgBagrut": "99",
+        "avgPshy": "572",
+        "id": "102"
+    },
+    {
+        "studyType": "ארכיטקטורה",
+        "avgBagrut": "99",
+        "avgPshy": "564",
+        "id": "237"
+    },
+    {
+        "studyType": "אדריכלות",
+        "avgBagrut": "104",
+        "avgPshy": "562",
+        "id": "92"
+    },
+    {
+        "studyType": "אדריכלות נוף",
+        "avgBagrut": "92",
+        "avgPshy": "542",
+        "id": "93"
+    },
+    {
+        "studyType": "תואר בכימיה",
+        "avgBagrut": "98",
+        "avgPshy": "578",
+        "id": "105"
+    },
+    {
+        "studyType": "מדעי המחשב",
+        "avgBagrut": "102",
+        "avgPshy": "635",
+        "id": "1"
+    },
+    {
+        "studyType": "זואולוגיה",
+        "avgBagrut": "92",
+        "avgPshy": "559",
+        "id": "236"
+    },
+    {
+        "studyType": "תואר בהיסטוריה",
+        "avgBagrut": "85",
+        "avgPshy": "493",
+        "id": "124"
+    },
+    {
+        "studyType": "תואר במנהל ציבורי",
+        "avgBagrut": "76",
+        "avgPshy": "408",
+        "id": "31"
+    },
+    {
+        "studyType": "חינוך ופסיכולוגיה",
+        "avgBagrut": "93",
+        "avgPshy": "546",
+        "id": "67"
+    },
+    {
+        "studyType": "תואר באופטומטריה",
+        "avgBagrut": "105",
+        "avgPshy": "503",
+        "id": "201"
+    },
+    {
+        "studyType": "מדעי בריאות הסביבה",
+        "avgBagrut": "93",
+        "avgPshy": "492",
+        "id": "83"
+    },
+    {
+        "studyType": "גרונטולוגיה - מדעי הזקנה",
+        "avgBagrut": "95",
+        "avgPshy": "491",
+        "id": "241"
+    },
+    {
+        "studyType": "תואר בעיצוב גרפי",
+        "avgBagrut": "90",
+        "avgPshy": "505",
+        "id": "88"
+    },
+    {
+        "studyType": "תואר בפוליטיקה",
+        "avgBagrut": "93",
+        "avgPshy": "492",
+        "id": "51"
+    },
+    {
+        "studyType": "מדעי הטבע",
+        "avgBagrut": "93",
+        "avgPshy": "585",
+        "id": "109"
+    },
+    {
+        "studyType": "פסיכותרפיה",
+        "avgBagrut": "97",
+        "avgPshy": "526",
+        "id": "148"
+    },
+    {
+        "studyType": "מדעי הקוגניציה",
+        "avgBagrut": "99",
+        "avgPshy": "631",
+        "id": "142"
+    },
+    {
+        "studyType": "תואר בתקשורת",
+        "avgBagrut": "90",
+        "avgPshy": "502",
+        "id": "37"
+    },
+    {
+        "studyType": "קולנוע",
+        "avgBagrut": "88",
+        "avgPshy": "490",
+        "id": "99"
+    },
+    {
+        "studyType": "שיווק ופרסום",
+        "avgBagrut": "89",
+        "avgPshy": "529",
+        "id": "227"
+    },
+    {
+        "studyType": "הנדסת מערכות מידע",
+        "avgBagrut": "100",
+        "avgPshy": "611",
+        "id": "7"
+    },
+    {
+        "studyType": "הנדסת פלסטיקה",
+        "avgBagrut": "105",
+        "avgPshy": "584",
+        "id": "20"
+    },
+    {
+        "studyType": "תואר במחול",
+        "avgBagrut": "80",
+        "avgPshy": "450",
+        "id": "95"
+    },
+    {
+        "studyType": "תואר במוסיקה",
+        "avgBagrut": "86",
+        "avgPshy": "548",
+        "id": "94"
+    },
+    {
+        "studyType": "תואר במדעי החיים",
+        "avgBagrut": "95",
+        "avgPshy": "565",
+        "id": "103"
+    }
+]
